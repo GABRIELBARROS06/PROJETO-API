@@ -1,7 +1,7 @@
 const axios = require('axios');
 
-const publicKey = '8e6fc3a4243a67187bebbd517f554473';
-const privateKey = '2cde7554317f3c0121ebd8a96cab439251ee0148';
+const publicKey = '';
+const privateKey = '';
 const baseURL = 'https://gateway.marvel.com/v1/public';
 
 // Função para criar uma hash MD5 necessária para autenticação
